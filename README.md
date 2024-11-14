@@ -1,7 +1,7 @@
 ## Quantium Software Engineering Job Simulation
 
 **Quantium_SoftwareEngineer:** <br>
-I recently completed Quantium's Software Engineering job simulation on Forage, where I developed an interactive Dash application to help clients assess the impact of price changes on sales and profitability. I also implemented a test suite using Pytest, automated testing with Bash, and designed an intuitive UI with CSS.
+I recently completed Quantium's Software Engineering job simulation on Forage, where I developed an interactive Dash application to help clients assess the impact of price changes on sales and profitability. I also implemented a test suite using Pytest, automated testing with Bash, and designed an intuitive UI with CSS..
 
 **Repository Overview:**  
 This repository documents my experience in the **Quantium Software Engineering Virtual Experience** on the Forage platform. The simulation allowed me to take on the role of a **software engineer** where I developed an interactive **Dash application** to help a client assess the impact of price changes on their sales and profitability. I also implemented a test suite to ensure the application’s functionality and created a user-friendly interface for an enhanced user experience.
